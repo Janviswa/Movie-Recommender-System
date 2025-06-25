@@ -97,7 +97,7 @@ streamlit run app.py
 
 ## 🗃️ Dataset
 
-Used: **TMDB 5000 Movie Dataset**  
+Used: **[TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)**  
 Contains:  
 - Title, Genres, Cast, Crew, Keywords  
 - Preprocessed with TF-IDF to generate similarity matrix
