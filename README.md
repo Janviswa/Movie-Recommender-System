@@ -5,8 +5,6 @@ CineMatch is an intelligent movie recommendation system built using machine lear
 📺 **Demo: Movie Recommendation Web App**  
 Watch CineMatch in action:
 
-[![Watch the demo](https://img.youtube.com/vi/XYVKqvqmVng/0.jpg)](https://youtu.be/XYVKqvqmVng)
-
 > 🚀 [Watch Demo on YouTube](https://youtu.be/XYVKqvqmVng)
 
 ---
